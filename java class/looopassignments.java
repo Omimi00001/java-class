@@ -18,7 +18,7 @@ public class looopassignments {
             count++;
         }
 
-        String correctpassword = "solace";
+        String correctpassword = "Omimi";
         Scanner scanner = new Scanner(System.in);
         System.out.println("Type in your password : ");
         String userPassword = scanner.nextLine();
@@ -95,3 +95,4 @@ public class looopassignments {
 
     }
 }
+
