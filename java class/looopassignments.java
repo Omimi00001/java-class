@@ -24,7 +24,7 @@ public class looopassignments {
         String userPassword = scanner.nextLine();
         boolean state = true;
         while (state) {
-            if (userPassword.equals("solace")) {
+            if (userPassword.equals("Omimi")) {
                 System.out.println("Correct password, Welcome");
                 state = false;
             }else{
@@ -95,4 +95,5 @@ public class looopassignments {
 
     }
 }
+
 
